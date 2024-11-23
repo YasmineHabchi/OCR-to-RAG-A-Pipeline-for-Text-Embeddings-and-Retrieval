@@ -1,6 +1,6 @@
 # OCR-to-RAG-A-Pipeline-for-Text-Embeddings-and-Retrieval
 
-This project implements a Retrieval-Augmented Generation (RAG) workflow to analyze multimodal data related to the Apollo 11 mission. By leveraging Optical Character Recognition (OCR), text embeddings, and vector databases, this notebook enables efficient retrieval of relevant information from a diverse dataset. Using Gemini and Chroma DB, we combine structured information retrieval with a generation system to answer queries about the Apollo 11 mission.
+This project implements a Retrieval-Augmented Generation (RAG) workflow to analyze multimodal data related to the Apollo 11 mission. By leveraging Optical Character Recognition (OCR), text embeddings, and vector databases, this notebook enables efficient retrieval of relevant information from a diverse dataset. Using Gemini and Chroma DB, we combine structured information retrieval with a generation system to answer queries about the Apollo 11 mission
 
 ## Table of Contents
 
